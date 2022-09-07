@@ -1,3 +1,5 @@
+#!/usr/bin/python
+print("""
 <!DOCTYPE html>
 <html>
 	  <head>
@@ -8,3 +10,4 @@
 		    <h1>Home - TheFGFSEagle</h1>
 	  </body>
 </html>
+""")
