@@ -1,2 +1,5 @@
 #!/usr/bin/python
-print("Hello !")
+import http
+
+s = http.server.HTTPServer(("127.0.0.0", 80), http.server.CGIHTTPRequestHandler)
+s.serve_forever()
