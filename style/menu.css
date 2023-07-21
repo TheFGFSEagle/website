@@ -1,0 +1,48 @@
+menu {
+	margin: 0;
+	padding: 0;
+}
+
+#main-menu {
+	background-color: black;
+	color: white;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+#main-menu li {
+	padding: 0;
+	margin: 0;
+	background-color: black;
+}
+
+#main-menu > li {
+	display: inline-block;
+}
+
+#main-menu li:not(:first-child) > button {
+	background-color: unset;
+	border: none;
+	border-left: 1px solid black;
+	display: inline-block;
+}
+
+#main-menu a {
+	color: inherit;
+	padding: 10px;
+	display: inline-block;
+}
+
+#main-menu li:hover, #main-menu a:hover {
+	background-color: #49c;
+}
+
+#main-menu li > menu {
+	position: absolute;
+	visibility: hidden;
+}
+
+#main-menu li:hover > menu {
+	visibility: visible;
+}
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="search.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="10.562408"
+     inkscape:cx="15.952802"
+     inkscape:cy="16.00014"
+     inkscape:window-width="1323"
+     inkscape:window-height="701"
+     inkscape:window-x="33"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2832"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="path846"
+       cx="13"
+       cy="13"
+       r="8" />
+    <path
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="M 27,27 18,18"
+       id="path2830"
+       inkscape:path-effect="#path-effect2832"
+       inkscape:original-d="M 27,27 C 22.351932,22.537931 22.658733,22.460392 18,18"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
